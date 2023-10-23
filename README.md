@@ -12,3 +12,7 @@ Feel free to PR.
 
 ### Finite Fields
 - [The Goldilocks prime](https://2π.com/22/goldilocks/)
+
+### General learning material (Videos/Lectures)
+- [Justin Thaler's ZK Crypto book](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
+- [Justin Thaler's Book study club sessions](https://www.youtube.com/watch?v=Xlq4DUYUa3c&list=PL_YzrmMHtTBQAauTGILpt4gqzu0opWtxq&index=1)
