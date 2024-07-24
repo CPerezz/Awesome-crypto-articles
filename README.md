@@ -12,6 +12,7 @@ Feel free to PR.
 
 ### Finite Fields
 - [The Goldilocks prime](https://2π.com/22/goldilocks/)
+- [Fast NTT arithmetic in the Goldilocks Field](https://www.youtube.com/watch?v=r9F3m_qK5Cw)
 
 ### General learning material (Videos/Lectures)
 - [Justin Thaler's ZK Crypto book](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
