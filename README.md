@@ -17,3 +17,4 @@ Feel free to PR.
 ### General learning material (Videos/Lectures)
 - [Justin Thaler's ZK Crypto book](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
 - [Justin Thaler's Book study club sessions](https://www.youtube.com/watch?v=Xlq4DUYUa3c&list=PL_YzrmMHtTBQAauTGILpt4gqzu0opWtxq&index=1)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
